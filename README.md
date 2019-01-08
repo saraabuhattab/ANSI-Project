@@ -1,4 +1,4 @@
-# ANSI-Project
+# ANSI-Project-2
 Only takes an input of one number and one letter in the exact format as such "3A", then displays the number and letter given like this "Displaying shape of size 3 made of letters A".
 
 %include "asm_io.inc"
